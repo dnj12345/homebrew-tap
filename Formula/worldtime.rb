@@ -9,9 +9,9 @@
 class Worldtime < Formula
   desc "Print local time for any city in the world"
   homepage "https://github.com/dnj12345/worldtime"
-  url "https://github.com/dnj12345/worldtime/archive/refs/tags/release-1.0.tar.gz"
-  version "1.0.0"
-  sha256 "fcb83c6e38711d065064fd5ae7815f8645e98b9972fc8b36d1984042788cb52a"
+  url "https://github.com/dnj12345/worldtime/archive/refs/tags/release-1.1.0.tar.gz"
+  version "1.1.0"
+  sha256 "470eaaa4a4aa050f9e419bf8733ad6343c22acd5d6a7b10692f74eebfcaab7e4"
 
   license "MIT"
 
